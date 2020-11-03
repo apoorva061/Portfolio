@@ -20,8 +20,8 @@ color: white;
   
   }
   @keyframes example {
-    from {color:gray;}
-    to {color:orange;}
+    from {color:white;}
+    to {color:yellow;}
   }
 
   .inner{
