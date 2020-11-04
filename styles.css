@@ -48,8 +48,8 @@ color: white;
 }
 
 .card:hover {
-    background: #007065;
-    color: white;
+    background: #543864;
+    color: whitesmoke;
     border-radius: 5px;
     border: none;
     transform: scale(1.05);
